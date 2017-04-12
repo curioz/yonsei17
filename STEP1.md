@@ -15,7 +15,7 @@
 #### Apple OSX
 There are several options: (i) run [Scipy Superpack for Homebrew](http://stronginference.com/ScipySuperpack/)
 or (ii) install
-[Python](https://www.python.org/downloads/) and additional packages from the [Terminal](http://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start) with `pip3 install matplotlib numpy jupyter numericalunits  eq_band_diagram SMACT`
+[Python](https://www.python.org/downloads/) and additional packages from the [Terminal](http://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start) with `pip3 install matplotlib numpy jupyter numericalunits pandas eq_band_diagram SMACT`
 
 #### Windows 
 The simplest approach is the [Anaconda package](https://www.continuum.io/downloads) (choose Python 3).
